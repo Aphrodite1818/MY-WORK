@@ -6,7 +6,7 @@ This repository contains a machine learning model for predicting breast cancer r
 Access the Streamlit app here: []
 
 ### 📂 Repository Contents
-- `Deployment model.py` – Contains the machine learning model.
+- `Deployment model.pkl` – Contains the machine learning model.
 - `main.py` – Streamlit web application script.
 - `requirements.txt` – Dependencies required to run the app.
 - `README.md` – This file!
